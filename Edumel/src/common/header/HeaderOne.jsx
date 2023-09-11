@@ -13,11 +13,11 @@ const HeaderOne = () => {
                                 <div className="header-contact text-center text-lg-start d-none d-sm-block">
                                     <ul className="list-inline">
                                         <li className="list-inline-item">
-                                            <span className="text-color me-2"><i className="fa fa-phone-alt"></i></span><a href="tel:+(354) 6800 37849"> +(354) 6800 37849</a>
+                                            <span className="text-color me-2"><i className="fa fa-phone-alt"></i></span><a href="tel:917989240883"> +917989240883</a>
                                         </li>
 
                                         <li className="list-inline-item">
-                                            <span className="text-color me-2"><i className="fa fa-envelope"></i></span><a href="malito:hello@edumel.com"> hello@edumel.com</a>
+                                            <span className="text-color me-2"><i className="fa fa-envelope"></i></span><a href="malito:admin@raisingupacademy.com"> admin@raisingupacademy.com</a>
                                         </li>
                                     </ul>
                                 </div>
